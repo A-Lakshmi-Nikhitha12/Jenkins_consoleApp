@@ -7,6 +7,7 @@ namespace JenkinsConsoleApp
     {
         public static void Main()
         {
+            int a,b;
             Console.WriteLine("Hello World!");
         }
     }
